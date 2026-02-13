@@ -17,4 +17,4 @@ Functional Requirements:
 5. Uses supplied small sandbags as the counterweights.     
 
 📄 Full Technical Report:
-See /Technical_Documentation/Trebuchet_Technical_Report.pdf
+See /Technical Documentation/Trebuchet Technical Report.pdf
